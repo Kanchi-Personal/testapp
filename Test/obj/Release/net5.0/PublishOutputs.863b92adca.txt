@@ -1,0 +1,5 @@
+C:\Users\RNZ6\Desktop\Test\Test\bin\Release\net5.0\publish\Test.exe
+C:\Users\RNZ6\Desktop\Test\Test\bin\Release\net5.0\publish\Test.dll
+C:\Users\RNZ6\Desktop\Test\Test\bin\Release\net5.0\publish\Test.deps.json
+C:\Users\RNZ6\Desktop\Test\Test\bin\Release\net5.0\publish\Test.runtimeconfig.json
+C:\Users\RNZ6\Desktop\Test\Test\bin\Release\net5.0\publish\Test.pdb
